@@ -1,0 +1,20 @@
+[
+  {
+    "role": "user",
+    "content": "who is abdulkalam"
+  },
+  {
+    "role": "assistant",
+    "content": null,
+    "tool_calls": [
+      {
+        "id": "call_8VISraEkfyAEZoexXw3HDIqn",
+        "function": {
+          "arguments": "{\"query\":\"Who is Abdul Kalam?\"}",
+          "name": "chatbot"
+        },
+        "type": "function"
+      }
+    ]
+  }
+]

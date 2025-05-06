@@ -1,0 +1,20 @@
+[
+  {
+    "role": "user",
+    "content": "who is virat"
+  },
+  {
+    "role": "assistant",
+    "content": null,
+    "tool_calls": [
+      {
+        "id": "call_thUMst27BlHtGoTBlOBH6tmu",
+        "function": {
+          "arguments": "{\"query\":\"Who is Virat?\"}",
+          "name": "chatbot"
+        },
+        "type": "function"
+      }
+    ]
+  }
+]

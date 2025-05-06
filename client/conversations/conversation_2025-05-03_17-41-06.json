@@ -1,0 +1,31 @@
+[
+  {
+    "role": "user",
+    "content": "who is abdulkalam"
+  },
+  {
+    "role": "assistant",
+    "content": null,
+    "tool_calls": [
+      {
+        "id": "call_8VISraEkfyAEZoexXw3HDIqn",
+        "function": {
+          "arguments": "{\"query\":\"Who is Abdul Kalam?\"}",
+          "name": "chatbot"
+        },
+        "type": "function"
+      }
+    ]
+  },
+  {
+    "role": "tool",
+    "content": [
+      "type='text' text='A. P. J. Abdul Kalam, full name Avul Pakir Jainulabdeen Abdul Kalam, was an Indian aerospace scientist and politician who served as the 11th President of India from 2002 to 2007. He was born on October 15, 1931, in Rameswaram, Tamil Nadu, India, and passed away on July 27, 2015.\\n\\nKalam played a leading role in India\\'s civilian space program and military missile development efforts, which earned him the nickname \"Missile Man of India.\" He was closely involved in the country\\'s efforts to develop its nuclear technology and was a key figure in the Pokhran-II nuclear tests conducted in 1998. Prior to his presidency, he worked with the Defence Research and Development Organisation (DRDO) and the Indian Space Research Organisation (ISRO).\\n\\nKalam was known not just for his scientific contributions but also for his commitment to education and inspiring young minds. After serving as President, he remained active in education, writing, and public service until his death. His dedication to public service, humility, and vision for a developed India have left a lasting legacy.' annotations=None"
+    ],
+    "tool_call_id": "call_8VISraEkfyAEZoexXw3HDIqn"
+  },
+  {
+    "role": "assistant",
+    "content": "A. P. J. Abdul Kalam, also known as Avul Pakir Jainulabdeen Abdul Kalam, was an Indian aerospace scientist and the 11th President of India, serving from 2002 to 2007. Known as the \"Missile Man of India,\" he significantly contributed to India's civilian space program and military missile development. Kalam was instrumental in the Pokhran-II nuclear tests in 1998 and worked with the Defense Research and Development Organisation (DRDO) and the Indian Space Research Organisation (ISRO).\n\nBorn on October 15, 1931, in Rameswaram, Tamil Nadu, Kalam was dedicated to education and inspiring young people. Even after his presidency, he remained actively engaged in education, writing, and public service until his passing on July 27, 2015. His vision for a developed India and his contributions to science and education have left a lasting impact."
+  }
+]

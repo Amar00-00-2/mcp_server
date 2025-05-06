@@ -1,0 +1,54 @@
+2025-05-03 16:30:00,861 - MCPClient - INFO - Connected to MCP server
+2025-05-03 16:30:00,869 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 16:34:24,512 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 16:34:26,187 - MCPClient - INFO - Connected to MCP server
+2025-05-03 16:34:26,194 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 16:34:26,715 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 16:34:28,432 - MCPClient - INFO - Connected to MCP server
+2025-05-03 16:34:28,440 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 16:35:01,041 - MCPClient - INFO - Processing query: who is virat
+2025-05-03 16:35:01,042 - MCPClient - INFO - Calling LLM
+2025-05-03 16:35:01,055 - MCPClient - ERROR - Error calling LLM: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2025-05-03 16:35:01,056 - MCPClient - ERROR - Error processing query: "Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted"
+2025-05-03 16:37:46,534 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 16:55:50,418 - MCPClient - INFO - Connected to MCP server
+2025-05-03 16:55:50,425 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 16:56:13,158 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 16:56:15,101 - MCPClient - INFO - Connected to MCP server
+2025-05-03 16:56:15,110 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 16:56:46,571 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 16:56:48,793 - MCPClient - INFO - Connected to MCP server
+2025-05-03 16:56:48,801 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 16:56:54,160 - MCPClient - INFO - Processing query: who is virat
+2025-05-03 16:56:54,160 - MCPClient - INFO - Calling LLM
+2025-05-03 16:56:55,680 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'error': {'message': "Missing required parameter: 'tools[0].type'.", 'type': 'invalid_request_error', 'param': 'tools[0].type', 'code': 'missing_required_parameter'}}
+2025-05-03 16:56:55,681 - MCPClient - ERROR - Error processing query: Error code: 400 - {'error': {'message': "Missing required parameter: 'tools[0].type'.", 'type': 'invalid_request_error', 'param': 'tools[0].type', 'code': 'missing_required_parameter'}}
+2025-05-03 17:00:11,862 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 17:00:13,924 - MCPClient - INFO - Connected to MCP server
+2025-05-03 17:00:13,931 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 17:00:17,053 - MCPClient - INFO - Connected to MCP server
+2025-05-03 17:00:17,059 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 17:00:25,278 - MCPClient - INFO - Connected to MCP server
+2025-05-03 17:00:25,285 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 17:00:30,329 - MCPClient - INFO - Processing query: who is virat
+2025-05-03 17:00:30,329 - MCPClient - INFO - Calling LLM
+2025-05-03 17:00:30,685 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'error': {'message': "Missing required parameter: 'tools[0].type'.", 'type': 'invalid_request_error', 'param': 'tools[0].type', 'code': 'missing_required_parameter'}}
+2025-05-03 17:00:30,686 - MCPClient - ERROR - Error processing query: Error code: 400 - {'error': {'message': "Missing required parameter: 'tools[0].type'.", 'type': 'invalid_request_error', 'param': 'tools[0].type', 'code': 'missing_required_parameter'}}
+2025-05-03 17:08:13,412 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 17:08:15,479 - MCPClient - INFO - Connected to MCP server
+2025-05-03 17:08:15,486 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 17:08:21,762 - MCPClient - INFO - Processing query: who is virat
+2025-05-03 17:08:21,762 - MCPClient - INFO - Calling LLM
+2025-05-03 17:08:22,567 - MCPClient - INFO - Calling tool chatbot with args {'query': 'Who is Virat?'}
+2025-05-03 17:08:24,919 - MCPClient - INFO - Tool chatbot result: meta=None content=[TextContent(type='text', text='Virat Kohli is an Indian cricketer and one of the most prominent figures in international cricket. Born on November 5, 1988, in Delhi, India, he is a right-handed batsman known for his aggressive playing style and consistency. Kohli has served as the captain of the Indian national team in all formats and has numerous records to his name, including multiple accolades for being one of the leading run-scorers in international cricket. Off the field, he is also known for his significant influence in endorsements and his philanthropic work.', annotations=None)] isError=False...
+2025-05-03 17:08:24,921 - MCPClient - INFO - Calling LLM
+2025-05-03 17:39:47,519 - MCPClient - INFO - Processing query: add 98416+6544
+2025-05-03 17:39:47,520 - MCPClient - INFO - Calling LLM
+2025-05-03 17:40:43,116 - MCPClient - INFO - Disconnected from MCP server
+2025-05-03 17:40:45,145 - MCPClient - INFO - Connected to MCP server
+2025-05-03 17:40:45,154 - MCPClient - INFO - Available tools: ['chatbot']
+2025-05-03 17:40:58,697 - MCPClient - INFO - Processing query: who is abdulkalam
+2025-05-03 17:40:58,697 - MCPClient - INFO - Calling LLM
+2025-05-03 17:40:59,662 - MCPClient - INFO - Calling tool chatbot with args {'query': 'Who is Abdul Kalam?'}
+2025-05-03 17:41:03,917 - MCPClient - INFO - Tool chatbot result: meta=None content=[TextContent(type='text', text='A. P. J. Abdul Kalam, full name Avul Pakir Jainulabdeen Abdul Kalam, was an Indian aerospace scientist and politician who served as the 11th President of India from 2002 to 2007. He was born on October 15, 1931, in Rameswaram, Tamil Nadu, India, and passed away on July 27, 2015.\n\nKalam played a leading role in India\'s civilian space program and military missile development efforts, which earned him the nickname "Missile Man of India." He was closely involved in the country\'s efforts to develop its nuclear technology and was a key figure in the Pokhran-II nuclear tests conducted in 1998. Prior to his presidency, he worked with the Defence Research and Development Organisation (DRDO) and the Indian Space Research Organisation (ISRO).\n\nKalam was known not just for his scientific contributions but also for his commitment to education and inspiring young minds. After serving as President, he remained active in education, writing, and public service until his death. His dedication to public service, humility, and vision for a developed India have left a lasting legacy.', annotations=None)] isError=False...
+2025-05-03 17:41:03,918 - MCPClient - INFO - Calling LLM

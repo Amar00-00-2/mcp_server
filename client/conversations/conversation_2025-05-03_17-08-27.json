@@ -1,0 +1,31 @@
+[
+  {
+    "role": "user",
+    "content": "who is virat"
+  },
+  {
+    "role": "assistant",
+    "content": null,
+    "tool_calls": [
+      {
+        "id": "call_thUMst27BlHtGoTBlOBH6tmu",
+        "function": {
+          "arguments": "{\"query\":\"Who is Virat?\"}",
+          "name": "chatbot"
+        },
+        "type": "function"
+      }
+    ]
+  },
+  {
+    "role": "tool",
+    "content": [
+      "type='text' text='Virat Kohli is an Indian cricketer and one of the most prominent figures in international cricket. Born on November 5, 1988, in Delhi, India, he is a right-handed batsman known for his aggressive playing style and consistency. Kohli has served as the captain of the Indian national team in all formats and has numerous records to his name, including multiple accolades for being one of the leading run-scorers in international cricket. Off the field, he is also known for his significant influence in endorsements and his philanthropic work.' annotations=None"
+    ],
+    "tool_call_id": "call_thUMst27BlHtGoTBlOBH6tmu"
+  },
+  {
+    "role": "assistant",
+    "content": "Virat Kohli is an Indian cricketer, renowned for his aggressive playing style and consistency as a right-handed batsman. Born on November 5, 1988, in Delhi, India, Kohli has been a central figure in international cricket, serving as the captain of the Indian national team in all formats. He holds numerous records as one of the leading run-scorers in the sport. Beyond cricket, Kohli is influential in endorsements and contributes to philanthropy."
+  }
+]
