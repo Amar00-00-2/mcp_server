@@ -14,7 +14,6 @@ class Settings(BaseSettings):
     server_script_path: str = "/home/tabtree/Documents/Antony/RandD/MCP-server/mcp-demo/server/mcp_server_test.py"
 
 
-settings = Settings()
 
 
 @asynccontextmanager
